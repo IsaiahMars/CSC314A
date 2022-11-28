@@ -21,3 +21,10 @@ This game uses JavaScript, JQuery, SocketIO, Flask-SocketIO and an HTML canvas e
 https://youtu.be/eYTnoJluds0
 
 All resources and images used in the website were paid for by me, or sourced from sites that make their artwork accessible to the public domain.
+
+
+Resubmission Changes: 
+-Added the instructions page.
+-Modified crop grow time values.
+
+When we switch our projects to use a PostgreSQL database, the game should be finished. I wasn't able to continue my work remotely over the break, but I'm pretty pleased with where I'm currently at in the development stage.
